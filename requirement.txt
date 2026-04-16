@@ -7,4 +7,4 @@ scikit-learn
 scipy
 requests
 beautifulsoup4
-python-whois
+python-whois==0.9.4
