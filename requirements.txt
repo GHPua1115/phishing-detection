@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+requests
+beautifulsoup4
+python-whois==0.9.4
